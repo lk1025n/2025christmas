@@ -64,8 +64,6 @@ function processGiftCode() {
             bodyElement.classList.remove('bg-022', 'bg-780');
             bodyElement.classList.add('default-bg');
         }
-    } else {
-        alert('請輸入有效的三位數字號碼。');
-    }
+    } 
 }
 
