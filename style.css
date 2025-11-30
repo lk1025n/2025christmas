@@ -88,9 +88,9 @@ button {
     text-align: left; 
 }
 
-/* *** 新增：只影響列表文字，讓三點內容往右移動 30px *** */
+/* *** 新增：只影響列表文字，讓三點內容往右移動 px *** */
 .gift-list {
-    padding-left: 50px; 
+    padding-left: 40px; 
 }
 
 
