@@ -57,7 +57,7 @@ input {
 button {
     padding: 10px 15px;
     font-size: 20px;
-    background-color: #ddebff;
+    background-color: #ffffff;
     color: white;
     border: none;
     border-radius: 5px;
@@ -104,7 +104,7 @@ button {
     border: none;
     border-radius: 5px;
     cursor: pointer;
-    transition: background-color 0.3s;
+    transition: none;
     display: block; 
     margin-left: auto; /* 左邊界自動，確保水平置中 */
     margin-right: auto; /* 右邊界自動，確保水平置中 */
