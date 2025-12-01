@@ -39,6 +39,18 @@ function processGiftCode() {
                 htmlContent: '<h1 style="text-align:center; margin-bottom: 15px;">提示</h1><div class="gift-list">• 萌萌<br>• 有點奇怪（？<br>• 一點都不實用的</div>',
                 backgroundClass: 'bg-022'
             },
+
+	    '820': {
+                // 為列表內容 DIV 加上 class="gift-list"
+                htmlContent: '<h1 style="text-align:center; margin-bottom: 15px;">提示</h1><div class="gift-list">• 萌<br>• 有<br>• 點</div>',
+                backgroundClass: 'bg-022'
+            },
+
+	    '850': {
+                // 為列表內容 DIV 加上 class="gift-list"
+                htmlContent: '<h1 style="text-align:center; margin-bottom: 15px;">提示</h1><div class="gift-list">• 軟軟的<br>• 圓圓的<br>• 萌萌的</div>',
+                backgroundClass: 'bg-022'
+            },
 	    '233': {
                 // 為列表內容 DIV 加上 class="gift-list"
                 htmlContent: '<h1 style="text-align:center; margin-bottom: 15px;">提示</h1><div class="gift-list">• 小首飾<br>• 髮飾<br>• 喝的</div>',
