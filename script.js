@@ -42,7 +42,7 @@ function processGiftCode() {
 
 	    '820': {
                 // 為列表內容 DIV 加上 class="gift-list"
-                htmlContent: '<h1 style="text-align:center; margin-bottom: 15px;">提示</h1><div class="gift-list">• lyminnn<br>• 貓<br>• 身高5公分</div>',
+                htmlContent: '<h1 style="text-align:center; margin-bottom: 15px;">提示</h1><div class="gift-list">• 哩咪<br>• 貓<br>• 身高5公分</div>',
                 backgroundClass: 'bg-022'
             },
 	    '656': {
